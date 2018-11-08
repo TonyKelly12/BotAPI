@@ -1,0 +1,1 @@
+{"version":3,"file":"createProperty.model.js","sourceRoot":"","sources":["../../../../app/Models/createProperty.model.ts"],"names":[],"mappings":";;AAAA;IACI,0BAEU,cAAsB,EACtB,cAAsB,EACtB,eAAuB,EACvB,qBAA6B;QAH7B,mBAAc,GAAd,cAAc,CAAQ;QACtB,mBAAc,GAAd,cAAc,CAAQ;QACtB,oBAAe,GAAf,eAAe,CAAQ;QACvB,0BAAqB,GAArB,qBAAqB,CAAQ;IAKvC,CAAC;IACL,uBAAC;AAAD,CAAC,AAZD,IAYC;AAZY,4CAAgB"}
